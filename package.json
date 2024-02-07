@@ -2,7 +2,7 @@
   "name": "mapping.github.io",
   "version": "0.0.1",
   "description": "osu! mapping",
-  "main": "index.js",
+  "main": "README.md",
   "authors": {
     "name": "Astronic",
     "email": "wu.jonathan09@gmail.com"
