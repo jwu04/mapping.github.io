@@ -16,4 +16,4 @@ Why?
 
 This manual is divided into lecture weeks so that you pace yourself and learn at a rate that you are comfortable. Each week, there will consist of mapping "homework", pre-lecture videos, and questions that are meant to making you think about mapping differently. The goal by the end of this guide, is that you will have created a simple beatmap whilst having learned the foundations of mapping so that you can branch out into other fields of mapping that you enjoy. Good luck fellow mapper!
 
-Click [here](https://beatmapping.netlify.app/) to learn more.
+Visit [here](https://beatmapping.netlify.app/) to begin your mapping journey.
