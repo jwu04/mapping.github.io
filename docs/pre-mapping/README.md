@@ -16,6 +16,7 @@ Every map is created in the editor, and it is imperative to leran a few improtan
 - CTRL + H: flip object(s) horizontally
 - CTRL + J: flip pbject(s) vertically
 - CTRL + G: flip object(s) selection
+- CTRL + Z: undo the last action
 - CTRL + >: rotate 90 degrees clockwise
 - CTRL + <: rotate 90 degrees counter-clockwise
 - ALT + Mousescroll: controls the distance spacing
