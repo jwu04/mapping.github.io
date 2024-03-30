@@ -4,7 +4,21 @@ Before beginning the mapping process, there are a few mapping concepts and termi
 
 The first major topic in mapping is **rhythm**.
 
-Before we discuss what rhythm is, it is important to note what maps consist of in the first place. Maps consist of **circles**, **sliders**, and **spinners**. Now that we know what maps are made of, we can now define what rhythm is in a map.
+Before we discuss what rhythm is, it is important to note what maps consist of in the first place. Maps consist of **circles**, **sliders**, and **spinners**.
+
+There are also two types of rhythms that exist.
+
+## Types of Rhythm
+
+There are also two types of rhythm that exist in osu!: **active** and **passive rhythm**.  
+
+**Active rhythm** are objects that you can click (e.g. circles and sliderheads).  
+
+**Passive rhythm** are objects that you can't click (e.g. slidertails and slider reverses). 
+
+The only exception to this are spinners; they fall into a gray area where they aren't necessarily active or passive because you need to spin to clear it. That being said, spinners will not be used frequently enough in a map to require a classification.
+
+Now that we know what maps are made of, we can now define what rhythm is in a map.
 
 ## Definition
 

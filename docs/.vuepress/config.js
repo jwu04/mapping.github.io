@@ -37,6 +37,10 @@ module.exports = {
         text: 'Manual',
         link: '/introduction/',
       },
+      {
+        text: 'Syllabus',
+        link: '/syllabus/',
+      }
     ],
     sidebar: [
       {
@@ -57,6 +61,65 @@ module.exports = {
           '/concepts/consistency',
           '/concepts/spread',
 
+        ],
+      },
+      {
+        title: 'Week 02 - Prior to Mapping',
+        collapsable: false,
+        children: [ 
+          '/pre-mapping/',
+          '/pre-mapping/setup',
+          '/pre-mapping/background',
+
+        ],
+      },
+      {
+        title: 'Week 03 - Normal Difficulties',
+        collapsable: false,
+        children: [ 
+          '/normals/',
+        ],
+      },
+      {
+        title: 'Week 04 - Hard Difficulties',
+        collapsable: false,
+        children: [ 
+          '/hards/',
+        ],
+      },
+      {
+        title: 'Week 05 - Insane Difficulties',
+        collapsable: false,
+        children: [ 
+          '/insanes/',
+        ],
+      },
+      {
+        title: 'Week 06 - Easy and Extra Difficulties',
+        collapsable: false,
+        children: [ 
+          '/easies and extras/',
+        ],
+      },
+      {
+        title: 'Week 07 - Hitsounding',
+        collapsable: false,
+        children: [ 
+          '/hitsounding/',
+        ],
+      },
+      {
+        title: 'Week 08 - After Mapping',
+        collapsable: false,
+        children: [ 
+          '/post-mapping/',
+        ],
+      },
+      {
+        title: 'Week 09 - Final Words',
+        collapsable: false,
+        children: [ 
+          '/conclusion/',
         ],
       }
     ], 
