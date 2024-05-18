@@ -95,10 +95,11 @@ module.exports = {
         ],
       },
       {
-        title: 'Week 06 - Easy and Extra Difficulties',
+        title: 'Week 06 - Other Difficulties',
         collapsable: false,
         children: [ 
-          '/easies and extras/',
+          '/other-difficulties/',
+          '/other-difficulties/Extra',
         ],
       },
       {
