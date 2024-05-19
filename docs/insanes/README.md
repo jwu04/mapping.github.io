@@ -2,7 +2,7 @@
 
 ## Rules
 
-There are a few established rules and guideslines for mapping Hards. Recall earlier the Ranking Criteria, and that the rules and guideslines on it are based on the assumption of the map being 180 beats per minute. Take some time to familarize with the rules and guidelines [here](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21#insane).
+There are a few established rules and guideslines for mapping Insanes. Recall earlier the Ranking Criteria, and that the rules and guideslines on it are based on the assumption of the map being 180 beats per minute. Take some time to familarize with the rules and guidelines [here](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21#insane).
 
 ## Tips and Tricks
 
